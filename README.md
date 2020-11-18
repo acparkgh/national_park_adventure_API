@@ -9,6 +9,8 @@ Things you may want to cover:
 
 * Rails version: 6.0.3.4
 
+* Database:  postgreSQL
+
 * System dependencies
 
 * Configuration
